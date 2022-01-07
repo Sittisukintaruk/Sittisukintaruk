@@ -8,6 +8,11 @@
 - 🥅 2022 Goals: build more project for my github and Looking for Job 👀 !!
 - ⚡ Fun fact: I Iove to learn new things and and play game / Running on morning day 💪
 
+### My Codepen and Figma work 📲:
+- Codepen > https://codepen.io/sittisukintaruk
+- Figma
+<br />
+
 ### Connect with me 📲:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
