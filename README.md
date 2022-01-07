@@ -58,7 +58,7 @@
 
   <img align="left" alt="Sittisukintaruk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sittisukintaruk&show_icons=true&hide_border=true" />
 ---
- <img align="left" alt="Sittisukintaruk's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sittisukintaruk&hide=Tcl,Jupyter Notebook&langs_count=5" />
+ <img align="left" alt="Sittisukintaruk's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sittisukintaruk&hide=Tcl,Jupyter Notebook&langs_count=5&layout=compact" />
 </details>
 
 [website]: https://codeSTACKr.com
