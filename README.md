@@ -10,7 +10,7 @@
 
 ### My Codepen and Figma work 👌:
 
-- <a href="https://codepen.io/sittisukintaruk"> Codepen </a>
+- [Codepen](https://codepen.io/sittisukintaruk)
 - Figma
   <br />
 
