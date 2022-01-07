@@ -72,7 +72,7 @@
 
   <img align="left" alt="Sittisukintaruk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sittisukintaruk&show_icons=true&hide_border=true" />
 [![Top Langs])
- <img align="left" alt="Sittisukintaruk's GitHub Stats" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Sittisukintaruk&langs_count=8" />
+ <img align="left" alt="Sittisukintaruk's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sittisukintaruk&langs_count=8" />
 </details>
 
 [website]: https://codeSTACKr.com
