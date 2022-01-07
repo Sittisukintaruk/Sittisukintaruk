@@ -71,7 +71,8 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Sittisukintaruk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sittisukintaruk&show_icons=true&hide_border=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sittisukintaruk&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+ <img align="left" alt="Sittisukintaruk's GitHub Stats" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Sittisukintaruk&langs_count=8)](https://github.com/anuraghazra/github-readme-stats" />
 </details>
 
 [website]: https://codeSTACKr.com
