@@ -1,12 +1,12 @@
 ### Hi there, i am Sittisak intaruk 👋
 
-## I'm a Web Developer 😃,Front-end Developer 😉,Ux/Ui design 😎 !!  
+## I'm a Web Developer 😃,Front-end Developer 😉,Ux/Ui design 😎,and Self-Taught Programmers !!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2022 Goals: build more project for my github and Looking for Job 👀 !!
+- ⚡ Fun fact: I Iove to learn new things and and play game / Running on morning day 💪
 
 ### Connect with me 📲:
 
