@@ -1,6 +1,6 @@
 ### Hi there, i am Sittisak intaruk 👋
 
-## I'm a Web Developer 😃,Front-end Developer 😉,Ux/Ui design 😎,and Self-Taught Programmers !!
+## I'm a Web Developer 😃,Front-end Developer 😉,Ui design 😎,and Self-Taught Programmers !!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
