@@ -2,7 +2,6 @@
 
 ## I'm a Web Developer 😃,Front-end Developer 😉,Ui design 😎,and Self-Taught Programmers !!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: build more project for my github and Looking for Job 👀 !!
