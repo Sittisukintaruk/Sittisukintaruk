@@ -15,7 +15,7 @@
   
 ### Frontend Mentor Profile 🙍‍♂️:
 
-- [Frontend Mentor](https://www.frontendmentor.io/profile/Sittisukintarukk)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/Sittisukintaruk)
    <br />
   
   
