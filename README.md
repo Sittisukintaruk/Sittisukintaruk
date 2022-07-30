@@ -4,7 +4,6 @@
 ## I'm a Web Developer 😃,Front-end Developer 😉,Ui design 😎,and Self-Taught Programmers !!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: build more project for my github and Looking for Job 👀 !!
 - ⚡ Fun fact: I Iove to learn new things and and play game / Running on morning day 💪
 
@@ -13,7 +12,13 @@
 - [Codepen](https://codepen.io/sittisukintaruk)
 - Figma
   <br />
+  
+### Frontend Mentor Profile 🙍‍♂️:
 
+- [Frontend Mentor](https://www.frontendmentor.io/profile/Sittisukintarukk)
+   <br />
+  
+  
 ### Connect with me 📲:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
