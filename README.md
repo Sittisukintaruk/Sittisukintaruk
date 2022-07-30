@@ -10,7 +10,7 @@
 ### My Codepen and Figma work 👌:
 
 - [Codepen](https://codepen.io/sittisukintaruk)
-- Figma
+- [Figma](https://www.figma.com/@sitthisak)
   <br />
   
 ### Frontend Mentor Profile 🙍‍♂️:
