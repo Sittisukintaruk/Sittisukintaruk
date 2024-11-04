@@ -1,11 +1,15 @@
 <a href="https://app.daily.dev/danger777"><img src="https://github.com/Sittisukintaruk/Sittisukintaruk/blob/master/devcard.svg" width="400" alt="Sitthisak Intharak's Dev Card"/></a>
 ### Hi there, i am Sittisak intaruk 👋
 
-## I'm a Web Developer 😃,Front-end Developer 😉,Ui design 😎,and Self-Taught Programmers !!
+## I'm a Web Developer 😃,Front-end Developer 😎,and Self-Taught Programmers !!
+
+### 😊 ผมจะกลับมาเป็นคนใหม่ในปี 2025 และทำให้ที่นี้นั้นยอดเยี่ยมกว่าเดิม ผมรักตัวเองมากขึ้นและจะทำให้สิ่งนี้เป็นอาชีพที่นำพาชีวิตมาถึงจุดหมาย !!😊
+<b>"Chase your dreams, honor your journey."</b>
+  <br />
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: build more project for my github and Looking for Job 👀 !!
-- ⚡ Fun fact: I Iove to learn new things and and play game / Running on morning day 💪
+- 🥅 2025 Goals: build more project for my github and Looking for Job 👀 !!
+
 
 ### My Codepen and Figma work 👌:
 
