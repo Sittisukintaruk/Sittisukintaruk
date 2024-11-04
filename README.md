@@ -7,8 +7,8 @@
 <b>"Chase your dreams, honor your journey."</b>
   <br />
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2025 Goals: build more project for my github and Looking for Job 👀 !!
+- 🌱 I’m currently learning codeing for working 
+- 🥅 2025 Goals: build more project and keep going hardwork
 
 
 ### My Codepen and Figma work 👌:
